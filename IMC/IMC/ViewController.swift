@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // Teste terceiro commit
+    
     @IBOutlet weak var tfWeight: UITextField!
     @IBOutlet weak var tfHeight: UITextField!
     @IBOutlet weak var lbResult: UILabel!
